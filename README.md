@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 😃 I’m currently interested in a collaborative white board
+- 🤔 I’m looking for a job abount web develop or somthing like that,if you have a chance,please contact me
+- 📫 How to reach me: Email:willerhe@126.com
 <!--
 **willerhe/willerhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
